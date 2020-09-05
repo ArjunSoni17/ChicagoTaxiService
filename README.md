@@ -1,0 +1,2 @@
+# ChicagoTaxiService
+ Big Data Analytics on Chicago Taxi service data for 2019. This analysis helped us understand the prime locations,, prime time for taxi services to make maximum Revenue, it tells us about the different factors influencing taxi services, Prime days, Also what variables help in high revenue as well what is the reason for low revenue, and When is that their is high and lower demand so that we could decide on Increasing the fleet or reducing the fleet.
